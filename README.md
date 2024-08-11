@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+Welcome to the home of [bro](https://github.com/lameaux/bro), a load testing tool, and [mox](https://github.com/lameaux/mox), a tool to stub external dependencies. 
+
+
+
 <!--
 **lameaux/lameaux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
