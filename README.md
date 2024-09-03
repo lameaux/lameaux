@@ -8,7 +8,7 @@ How do you approach this task? Do you estimate, check historical data, or run si
 
 The only reliable way to provide a confident answer is to simulate the load. 
 
-Check out [nft](https://github.com/lameaux/nft) repo to see my tools in action!
+Visit [website](https://lameaux.github.io/) and check out [nft repo](https://github.com/lameaux/nft) to see my tools in action!
 
 
 
