@@ -6,7 +6,7 @@ Have you ever been asked by your boss to determine the number of requests your s
 
 How do you approach this task? Do you estimate, check historical data, or run simulations?
 
-The only reliable way to provide a confident answer is to simulate the load. 
+The only reliable way to provide a confident answer is to **simulate** the load. 
 
 Visit [website](https://lameaux.github.io/) and check out [nft repo](https://github.com/lameaux/nft) to see my tools in action!
 
